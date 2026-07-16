@@ -56,7 +56,7 @@ managed_services = klipper
 
 [update_manager fluidd]
 type = web
-channel = beta
+channel = stable
 repo = fluidd-core/fluidd
 path = /usr/data/fluidd
 
